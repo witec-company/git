@@ -1,4 +1,5 @@
 $(document).ready(function () {
-     console.log("I'm workink ...");
-     
+     $('#navS').click(function (e) { 
+          $('.nav').toggleClass('solid');
+     });
 });
