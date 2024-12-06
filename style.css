@@ -52,15 +52,3 @@
      font-size: 1.6em;
      cursor: pointer;
 }
-
-#navS{
-     background: #000;
-     color: aliceblue;
-     padding:20px 40px;
-     font-size: 1.2em;
-     border-radius: 30px;
-     transition: 0.4s;
-}
-#navS:active{
-     scale:0.9;
-}

@@ -1,5 +1,5 @@
 $(document).ready(function () {
-     $('#navS').click(function (e) { 
-          $('.nav').toggleClass('solid');
+     $('.nav').click(function (e) { 
+          $(this).toggleClass('solid');
      });
 });
