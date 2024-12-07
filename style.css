@@ -5,6 +5,9 @@
      list-style: none;
      box-sizing: border-box;
 }
+body{
+  background: aqua;
+}
 .nav {
      width: 100%;
      transition: 0.4s;
